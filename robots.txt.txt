@@ -1,0 +1,20 @@
+User-agent: *
+Disallow:/administrator/
+Disallow:/bin/
+Disallow:/cache/
+Disallow:/cli/
+Disalliw:/components/
+Disallow:/component/
+Disallow:/includes/
+Disallow:/installation/
+Disallow:/language/
+Disallow:/layouts/
+Disallow:/libraries/
+Disallow:/logs/
+Disallow:/media/
+Disallow:/modules/
+Disallow:/plugins/
+Disallow:/tmp/
+
+Host: https://ayaalpopov.github.io/computer/
+Sitemap: https://ayaalpopov.github.io/computer/
